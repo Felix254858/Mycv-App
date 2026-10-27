@@ -36,16 +36,19 @@ To view or run this project locally:
 
    Where to download it
 
-Project Goals
+   https://github.com/Felix254858/Mycv-App/releases/download/v1.0.0.0/app-debug.apk
+
+  Screenshot of the output
+
+  <img width="720" height="1600" alt="screenshot" src="https://github.com/user-attachments/assets/dcfb70e2-ef09-46d9-babb-2baa56a0e5d1" />
+
+  Project Goals
 
 - Develop practical web development skills.
 - Build a professional online portfolio.
 - Showcase ICT projects and technical abilities.
 - Create opportunities for employment and freelance work.
 
-  Screenshot of the output
-
-  <img width="720" height="1600" alt="screenshot" src="https://github.com/user-attachments/assets/dcfb70e2-ef09-46d9-babb-2baa56a0e5d1" />
 
 Developer
 
