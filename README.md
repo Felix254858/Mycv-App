@@ -1,3 +1,4 @@
+
 Professional CV & Portfolio App
 
 About the App
@@ -33,12 +34,18 @@ To view or run this project locally:
 3. Locate the "index.html" file.
 4. Open it in your web browser.
 
+   Where to download it
+
 Project Goals
 
 - Develop practical web development skills.
 - Build a professional online portfolio.
 - Showcase ICT projects and technical abilities.
 - Create opportunities for employment and freelance work.
+
+  Screenshot of the output
+
+  <img width="720" height="1600" alt="screenshot" src="https://github.com/user-attachments/assets/dcfb70e2-ef09-46d9-babb-2baa56a0e5d1" />
 
 Developer
 
